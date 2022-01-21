@@ -1,0 +1,19 @@
+.friends-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+
+  >.grid-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+
+
+}
+.friend-list {
+  margin:30px 0 !important;
+
+}
